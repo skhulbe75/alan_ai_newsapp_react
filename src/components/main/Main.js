@@ -7,9 +7,8 @@ import NewsCards from "../NewsCards/NewsCards";
 
 import classes from "./Main.module.css"
 
-const processedKey = process.env.REACT_APP_API_KEY;
-const appendValue = '/stage'
-const alanKey =  processedKey.concat(appendValue);
+
+const alanKey =  '57f28c58b2b8f4b858dbefe51ecd14502e956eca572e1d8b807a3e2338fdd0dc/stage'
 
 
 
